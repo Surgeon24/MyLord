@@ -1,0 +1,36 @@
+# =============== Unity ===============
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+MemoryCaptures/
+
+# =============== Unity Generated Files ===============
+/Assets/AddressableAssetsData/*/*.bin
+/Assets/AddressableAssetsData/*/*.hash
+/Assets/StreamingAssets/aa/*
+
+# =============== Unity Crash Logs ===============
+/Crashes/
+
+# =============== User-specific ===============
+*.csproj
+*.sln
+*.userprefs
+*.pidb
+*.suo
+*.unityproj
+*.apk
+*.aab
+*.exe
+*.app
+*.log
+
+# =============== IDE/Editor files ===============
+.vscode/
+.idea/
+*.iml
+*.sublime-workspace
+*.sublime-project
